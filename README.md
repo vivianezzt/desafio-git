@@ -1,6 +1,6 @@
 ## About Me - Portifólio
 
-<img src="../desafio-git/img/aboutme.png">
+<img src="https://github.com/vivianezzt/desafio-git/blob/main/desafio-git/img/aboutme.png">
 
 Desafio feito durante o curso do Prof. Nélio Alves pela <a href="https://devsuperior.com.br/">DevSuperior</a>
 
